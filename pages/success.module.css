@@ -1,0 +1,29 @@
+.link {
+  color: black;
+  text-decoration: underline;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.successContainer {
+  margin: auto;
+  background-color: #54b435;
+  color: white;
+  font-size: bold;
+
+  display: flex;
+  justify-content: center;
+  margin-top: 9rem;
+  padding: 2rem;
+  align-items: center;
+  border: 1px solid #379237;
+}
+
+.block {
+  display: block;
+}
+
+.none {
+  display: none;
+}
